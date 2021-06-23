@@ -1,0 +1,6 @@
+ormconfing.json: 
+
+ "migrations": ["dist/migrations/*.js"],
+"cli": {
+   "migrationsDir": "migration"
+ }
